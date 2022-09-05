@@ -38,6 +38,7 @@ Para el correcto funcionamiento de este flow debes cumplir con los siguientes re
 2. Abrir Node-RED en [Firefox](localhost:1880/) escribiendo "localhost:1880/" en el buscador. 
 
 3. Agregar un bloque `injec` y configurar de la sifuiente forma:
+![Configuracion nodo injec](https://github.com/aramisroldan/Flow-1/blob/main/Flow_1.png)
 
 4. Agregar un bloque `debug`.
 
